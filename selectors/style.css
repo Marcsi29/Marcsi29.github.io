@@ -5,4 +5,10 @@
 .container div {
     border: 1px solid green;
   }
+
+  div {
+    font-weight: bold;
+  }
+
+  
 #
