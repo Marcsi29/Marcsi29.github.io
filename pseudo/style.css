@@ -15,7 +15,7 @@ p:hover {
     background-color: brown;
 }
 
-:first-child {
+p:first-child {
     margin-top: 0;
 }
 
