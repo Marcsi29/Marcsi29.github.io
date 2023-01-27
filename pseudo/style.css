@@ -4,6 +4,13 @@
     margin-right: auto;
 
 }
+p:first-child {
+    margin-top: 0;
+}
+
+p:last-child{
+    margin-bottom: 0;
+}
 
 p {
     padding: 15px;
@@ -15,10 +22,4 @@ p:hover {
     background-color: brown;
 }
 
-p:first-child {
-    margin-top: 0;
-}
 
-p:last-child{
-    margin-bottom: 0;
-}
