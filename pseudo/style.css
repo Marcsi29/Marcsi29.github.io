@@ -15,3 +15,10 @@ p:hover {
     background-color: brown;
 }
 
+p:first-child {
+    margin-top: 0;
+}
+
+p:last-child{
+    margin-bottom: 0;
+}
