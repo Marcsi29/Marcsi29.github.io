@@ -5,11 +5,11 @@
 
 }
 p:first-child {
-    margin-top: 0;
+    border-top: 0;
 }
 
 p:last-child{
-    margin-bottom: 0;
+    border-bottom: 0;
 }
 
 p {
