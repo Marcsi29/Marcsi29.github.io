@@ -6,7 +6,8 @@
 }
 
 p {
-    padding: 50 px;
+    padding: 5 px;
+    margin: 0;
     border: 1px solid black;
 }
 
