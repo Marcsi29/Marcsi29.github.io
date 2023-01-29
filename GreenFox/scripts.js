@@ -19,3 +19,7 @@ $("h1").text("Ezt javascriptbol valtoztattuk meg!")
 
 console.log($(".sarga").css("background-color"))
 $(".sarga").css("background-color", "magenta")
+
+$('button').click(function() {
+$("ul").append('<li>ujabb elem</li>')
+})
