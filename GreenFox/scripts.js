@@ -25,5 +25,5 @@ $("ul").append('<li>ujabb elem</li>')
 })
 
 $('#torlo').click(() => {
-    $("li:last-of-type").remove
+    $("li:last-of-type").remove()
     })
