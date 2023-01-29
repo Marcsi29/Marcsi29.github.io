@@ -8,3 +8,9 @@ if (azEnKorom > 18) {
 }
 
 console.log('Ez itt a vege')
+
+//jQuerys resz
+
+let szovegAzOldalon = $("h1").text()
+console.log(szovegAzOldalon)
+
