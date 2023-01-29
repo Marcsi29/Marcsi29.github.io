@@ -16,3 +16,6 @@ console.log('Ez itt a vege')
 
 console.log($("h1").text())
 $("h1").text("Ezt javascriptbol valtoztattuk meg!")
+
+console.log($(".sarga").css("background-color"))
+$(".sarga").css("background-color", "magenta")
