@@ -11,6 +11,8 @@ console.log('Ez itt a vege')
 
 //jQuerys resz
 
-let szovegAzOldalon = $("h1").text()
-console.log(szovegAzOldalon)
+// let szovegAzOldalon = $("h1").text()
+// console.log(szovegAzOldalon)
 
+console.log($("h1").text())
+$("h1").text("Ezt javascriptbol valtoztattuk meg!")
