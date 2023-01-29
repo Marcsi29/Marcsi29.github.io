@@ -27,3 +27,7 @@ $("ul").append('<li>ujabb elem</li>')
 $('#torlo').click(() => {
     $("li:last-of-type").remove()
     })
+
+    for (let i=0; i<100; i=i+1) {
+ $("ul").append('<li>${i}. Nem csalok tobbet a vizsgan.</li>')
+   }
